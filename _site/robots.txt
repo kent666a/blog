@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /https://kent666a.github.io/blog/sitemap.xml
